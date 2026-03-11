@@ -20,6 +20,7 @@ Trabajo con control de versiones usando **Git y GitHub**, y también integro aut
 * Laravel
 * MySQL
 * Java
+* Php
 
 **Herramientas**
 
