@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👨‍💻 Jairo – Desarrollador de Aplicaciones Web
 
-<!--
-**Jairo-19/Jairo-19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador junior enfocado en la creación de aplicaciones web modernas y escalables. Me especializo en el desarrollo frontend con **HTML, JavaScript y React**, y en backend utilizando **Java, Laravel y MySQL**.
 
-Here are some ideas to get you started:
+Trabajo con control de versiones usando **Git y GitHub**, y también integro automatizaciones y flujos de trabajo con **n8n** para optimizar procesos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Interesado en mejorar continuamente mis habilidades en desarrollo web, arquitectura de aplicaciones y automatización de procesos.
+
+
+## 🚀 Tecnologías que utilizo
+
+**Frontend**
+
+* HTML
+* JavaScript
+* React
+
+**Backend**
+
+* Laravel
+* MySQL
+* Java
+
+**Herramientas**
+
+* Git
+* GitHub
+
+**Automatización**
+
+* n8n
