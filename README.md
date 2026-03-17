@@ -13,6 +13,7 @@ Trabajo con control de versiones usando **Git y GitHub**, y también integro aut
 
 * HTML
 * JavaScript
+* Css
 * React
 
 **Backend**
