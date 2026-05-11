@@ -12,25 +12,26 @@ Trabajo con control de versiones usando **Git y GitHub**, y también integro aut
 **Frontend**
 
 * HTML
-* TypeScript
+* TypeScript/JavaScript
 * Css
 * Bootstrap 
 * Tailwind
 * React
+* Vite
 
 **Backend**
-
 * Laravel
 * MySQL
 * Java
 * Php
-* Docker
+* Node
 * Python
 
 **Herramientas**
 
 * Git
 * GitHub
+* Docker
 
 **Automatización**
 
